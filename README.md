@@ -8,7 +8,7 @@ In this project we focus on fake news and their significant impact on various as
 
 We first explore the ISOT dataset (S. Saad, H. Ahmed, I. Traore. 2018) and then train a LSTM and a CNN with PyTorch to address the above-mentionned binary fake news detection task. Lastly, leveraging the very high precision and recall yielded, we discuss the results of our model in the light of crucial topics such as censorship and information overflow.
 
-Datasets can be found [here](https://www.uvic.ca/engineering/ece/isot/assets/docs/ISOT_Fake_News_Dataset_ReadMe.pdf)
+Datasets can be found [here](https://www.uvic.ca/engineering/ece/isot/assets/docs/ISOT_Fake_News_Dataset_ReadMe.pdf)        
 Please have a look at our [report](https://github.com/remydeshayes/NLP_Pytorch/blob/main/report_nlp_billiot_deshayes.pdf)
 
 References
