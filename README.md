@@ -4,9 +4,12 @@ Authors : Bastien Billiot and Rémy Deshayes
 
 Machine Learning for Natural Language Processing 2021 module @ ENSAE 3rd year semester 2. 
 
-In this project we focus on fake news and their significant impact on various aspects of our society, let it be damaging someone’s reputation, create controversy and even manipulate political outcomes. With the rise of false or misleading information presented as genuine news, all news publishers, news aggregators and social media platform tried to curtail the phenomena by introducing automatic text classification techniques. In this project, we first explore the ISOT dataset (S. Saad, H. Ahmed, I. Traore. 2018) and then train a LSTM and a CNN with PyTorch to address the above-mentionned binary fake news detection task. Lastly, leveraging the very high precision and recall yielded, we discuss the results of our model in the light of crucial topics such as censorship and information overflow.
+In this project we focus on fake news and their significant impact on various aspects of our society, let it be damaging someone’s reputation, create controversy and even manipulate political outcomes. With the rise of false or misleading information presented as genuine news, all news publishers, news aggregators and social media platform tried to curtail the phenomena by introducing automatic text classification techniques. 
+
+We first explore the ISOT dataset (S. Saad, H. Ahmed, I. Traore. 2018) and then train a LSTM and a CNN with PyTorch to address the above-mentionned binary fake news detection task. Lastly, leveraging the very high precision and recall yielded, we discuss the results of our model in the light of crucial topics such as censorship and information overflow.
 
 Datasets can be found [here](https://www.uvic.ca/engineering/ece/isot/assets/docs/ISOT_Fake_News_Dataset_ReadMe.pdf)
+Please have a look at our [report](https://github.com/remydeshayes/NLP_Pytorch/blob/main/report_nlp_billiot_deshayes.pdf)
 
 References
 
